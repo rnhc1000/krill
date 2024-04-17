@@ -21,7 +21,7 @@ The RPKI architecture is documented in RFC 6480. The RPKI specification is docum
 
 
 ## _Screenshot_
-[![](./rpki.avi)]()
+[![](./rpki.avif)]()
 ## _Links_
 - Live Site URL: [https://krill.docs.nlnetlabs.nl/en/stable/index.html] 
 ## _Built with_
